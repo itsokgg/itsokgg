@@ -20,13 +20,13 @@ AI/ML fundamentals (search algorithms, Minimax, CSPs, supervised learning) · Te
 ---
 
 ### Selected projects
-(Short summaries — full project READMEs (and some I'm still working on implementing) live in each repo.)
+(Short summaries — some project READMEs live in each repo.)
 
 - **[InvoGen](https://github.com/itsokgg/cs50w-projects/tree/main/project5)** — Django app for inventory, purchases, and sales; dynamic formsets and complex validation to track serialized/non-serialized items and margins.  
-- **E-commerce Auction Site** — CS50w project (Django) with user auth, bidding, watchlists, categories, and comments.  
-- **AI: Search, Game Playing & CSPs** — Implemented DFS/BFS/A*, Minimax agents for Tic-Tac-Toe/Nim, and a crossword solver using AC-3 (CS50AI coursework).  
-- **Machine Learning Projects** — Classification models and a traffic-sign neural network (CS50AI coursework).  
-- **Natural Language & Parsing** — Context-free grammar parser using NLTK; hands-on with tokenization and parsing techniques.
+- **[E-commerce Auction Site](https://github.com/itsokgg/cs50w-projects/tree/main/project2/commerce)** — CS50w project (Django) with user auth, bidding, watchlists, categories, and comments.  
+- **[AI](https://github.com/itsokgg/cs50ai-projects): Search, Game Playing & CSPs** — Implemented DFS/BFS/A*, Minimax agents for Tic-Tac-Toe/Nim, and a crossword solver using AC-3 (CS50AI coursework).  
+- **[Machine Learning Projects](https://github.com/itsokgg/cs50ai-projects)** — Classification models and a traffic-sign neural network (CS50AI coursework).  
+- **[Natural Language & Parsing](https://github.com/itsokgg/cs50ai-projects/tree/main/parser)** — Context-free grammar parser using NLTK; hands-on with tokenization and parsing techniques.
 
 ---
 
